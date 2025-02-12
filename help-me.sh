@@ -26,7 +26,7 @@ echo "--- Updating"
 sudo update-ca-trust
 
 sudo pacman-key --init
-sudo pacman-key --populate archliunx
+sudo pacman-key --populate archlinux
 sudo pacman-key --refresh-keys
 
 sudo pacman -Syyu
