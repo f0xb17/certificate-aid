@@ -1,5 +1,12 @@
 #!/bin/sh
 
+##
+# Please fix all my problems. I'll never do stupid things again!
+#
+# Copyright (c) 2025 f0xb17
+# Published under Apache-2.0 license
+##
+
 echo "Let's fix your problem!"
 
 echo "--- Downloading ca-certificates"
